@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/sessions/*.json
+!data/sessions/INC-8832.json
